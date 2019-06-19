@@ -1,4 +1,4 @@
-# Atelier Database  
+# Atelier Lulua Database  
 *This is the react gh page repository*  
   
 A react project where you can search materials from the game.  
