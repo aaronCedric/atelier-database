@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ca9b099b839d0201673257515c176db",
+    "revision": "07612267b27136f7932cd0d2c1af6c29",
     "url": "/atelier-database/index.html"
   },
   {
-    "revision": "6ced5177f7acb17b2f59",
+    "revision": "7044b4ed2e284f2297de",
     "url": "/atelier-database/static/css/main.9aa0a71d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atelier-database/static/js/2.34882227.chunk.js"
   },
   {
-    "revision": "6ced5177f7acb17b2f59",
-    "url": "/atelier-database/static/js/main.1bf29f6b.chunk.js"
+    "revision": "7044b4ed2e284f2297de",
+    "url": "/atelier-database/static/js/main.1cda07dd.chunk.js"
   },
   {
     "revision": "e00217cfb73383f117b0",
